@@ -1,5 +1,7 @@
 # CastleBattle
 
+![CastleBattle](https://github.com/EOSIndieGame/CastleBattle/blob/master/castlebattle-256.png)
+
 Castle Battle（城堡战争）是一款基于 EOS区块链的多人在线策略类角色扮演游戏，BM-RPG (Blockchain based Multiplayer Role-playing Game)。
 由 EOSIndieGame 开发
 
